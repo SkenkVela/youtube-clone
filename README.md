@@ -4,6 +4,6 @@
 1. This project only focus on html and css
 2. Is a basic home page and a responsive one
 3. I did it while watching a tutorial about html and css
-4. Video: https://youtu.be/G3e-cpL7ofc
+4. Watch the course on YouTube the: https://youtu.be/G3e-cpL7ofc
 
 Stay Strong!!
